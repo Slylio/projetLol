@@ -1,0 +1,2 @@
+1. https://medium.com/the-esports-analyst-club-by-itero-gaming/becoming-a-lol-analyst-an-introduction-to-using-the-riot-api-bb145ec8eb50
+2. https://github.com/Lacerdash/Extracting-League-of-Legends-data-with-Riot-Api
